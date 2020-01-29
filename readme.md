@@ -23,7 +23,9 @@
 >
 >此目录下的python代码实现了获取每日天气并转换为语音
 
+码云地址： https://gitee.com/hades0/Knight 
 
+觉得有用可以star下😀
 
 **本项目仅可用于学习研究。**
 
